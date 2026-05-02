@@ -1,0 +1,13 @@
+# robots.txt — Bharat Rights Twin: Citizen Rights Dashboard
+# https://helixoriginator.github.io/bharat-rights-dashboard/
+# Built by Kallol Chakrabarti, Global Independent Researcher
+# Public Interest Governance · Civic Technology · India
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://helixoriginator.github.io/bharat-rights-dashboard/sitemap.xml
+
+# Crawl-delay (optional, respectful default)
+Crawl-delay: 10
